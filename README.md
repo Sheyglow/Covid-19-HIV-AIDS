@@ -19,7 +19,8 @@ Total death.<br />
 
 # Data Sourcing and Cleaning
 Both covid_19 and HIV/AIDS datasets was gotten from Kaggle.<br /> 
-The datasets was cleaned and tranformed using excel and Power BI. <br />
+Covid_19 data, https://www.kaggle.com/datasets/headsortails/covid19-us-county-jhu-data-demographics?select=covid_us_county.csv  <br />
+The datasets was cleaned and tranformed using excel and Power BI. 
 
 ## Covid_19 :
 Caluation was done in the covid_19 dataset to get the total number of confirmed cases per month and also the total number of deaths cases, and the columns that are not needed were removed.(fig.1)
