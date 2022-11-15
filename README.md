@@ -1,4 +1,4 @@
-# Covid-19-HIV-AIDS
+# Covid-19-HIV-AIDS (Data Analytics Team 2)
 COVID-19 is a respiratory viral disease, the virus is transmitted through direct contact with respiratory droplets of an infected person and touching surfaces contaminated with the virus. The purpose of this analysis is to show the infection rate and mortality rate of the disease. <br />
 While HIV, the virus that causes AIDS, is one of the world's most serious public health challenges but the world is committed to curbing new infections while ensuring that everyone with HIV has access to HIV treatment. <br />
 
